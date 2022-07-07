@@ -6,7 +6,7 @@ import 'package:newsapps/modules/science/science_screen.dart';
 import 'package:newsapps/modules/sports/sport_screen.dart';
 import 'package:newsapps/network/local/cache_helper.dart';
 import 'package:newsapps/network/remote/dio_helper.dart';
-
+//m
 class NewsCubit extends Cubit<NewsStates>
 {
   NewsCubit() : super(NewsInitialState());

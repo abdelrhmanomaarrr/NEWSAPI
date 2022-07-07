@@ -11,6 +11,7 @@ class GetBusinessSuccessState extends NewsStates{}
 class GetBusinessErrorState extends NewsStates{
   GetBusinessErrorState(String string);
 }
+//m
 
 
 class GetSportLoadingState extends NewsStates{}

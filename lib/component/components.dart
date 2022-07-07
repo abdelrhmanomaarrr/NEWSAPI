@@ -2,7 +2,7 @@ import 'package:conditional_builder_null_safety/conditional_builder_null_safety.
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:newsapps/modules/webview/web_view_screen.dart';
-
+//m
 Widget buildArticleItem(article,context) => InkWell(
   onTap: (){
     navigateTo(context, WebViewScreen(

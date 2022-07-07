@@ -4,7 +4,7 @@ import 'package:newsapps/component/components.dart';
 import 'package:newsapps/cubit/cubit.dart';
 import 'package:newsapps/cubit/states.dart';
 
-
+//m
 class SearchScreen extends StatelessWidget {
   var searchController = TextEditingController();
 
