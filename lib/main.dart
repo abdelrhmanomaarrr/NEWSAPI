@@ -8,7 +8,7 @@ import 'package:newsapps/network/local/cache_helper.dart';
 import 'package:newsapps/network/remote/dio_helper.dart';
 import 'package:newsapps/news_layout.dart';
 
-import 'on_boarding/on_boarding.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
