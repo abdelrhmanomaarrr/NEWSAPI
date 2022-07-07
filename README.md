@@ -1,6 +1,6 @@
 # newsapps
 abdelrhman omar 77843 fetch data throw api by dio with news api
-amr yasser frontend and designs app
+amr yasser 77643 frontend and designs app
 Using DIO to connect throw API News
 flutter_bloc
 dio
