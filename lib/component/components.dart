@@ -92,7 +92,7 @@ Widget buildArticleItem(article,context) => InkWell(
     ),// Image
   
   ),
-);
+);// build widget
 
 Widget articleBuilder(list,context,{isSearch=true})=>ConditionalBuilder(
   condition: list.length>0,
