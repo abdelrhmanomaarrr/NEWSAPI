@@ -89,7 +89,7 @@ Widget buildArticleItem(article,context) => InkWell(
   
       ],
   
-    ),
+    ),// Image
   
   ),
 );
